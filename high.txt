@@ -1,0 +1,7 @@
+welcome to kaniki 
+java
+c
+c++
+html
+CSS
+javascript
